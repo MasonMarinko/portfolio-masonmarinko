@@ -4,9 +4,10 @@
 
 Repository Link: [Mason Marinko Portfolio](https://github.com/MasonMarinko/portfolio-masonmarinko/)
 
-Live URL Link: [Media Collector Website](https://masonmarinko.github.io/portfolio-masonmarinko/)
+Live URL Link: [Mason Marinko Portfolio Website](https://masonmarinko.github.io/portfolio-masonmarinko/)
 
 ## Description
+
 - 
 
 ## Table of Contents
