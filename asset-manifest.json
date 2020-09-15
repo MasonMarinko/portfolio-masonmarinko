@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio-masonmarinko/static/css/main.0c88be55.chunk.css",
+    "main.js": "/portfolio-masonmarinko/static/js/main.b8009a62.chunk.js",
+    "main.js.map": "/portfolio-masonmarinko/static/js/main.b8009a62.chunk.js.map",
+    "runtime-main.js": "/portfolio-masonmarinko/static/js/runtime-main.84da1250.js",
+    "runtime-main.js.map": "/portfolio-masonmarinko/static/js/runtime-main.84da1250.js.map",
+    "static/js/2.ee4664aa.chunk.js": "/portfolio-masonmarinko/static/js/2.ee4664aa.chunk.js",
+    "static/js/2.ee4664aa.chunk.js.map": "/portfolio-masonmarinko/static/js/2.ee4664aa.chunk.js.map",
+    "index.html": "/portfolio-masonmarinko/index.html",
+    "precache-manifest.df717b9931496fee726c53ca312ef00e.js": "/portfolio-masonmarinko/precache-manifest.df717b9931496fee726c53ca312ef00e.js",
+    "service-worker.js": "/portfolio-masonmarinko/service-worker.js",
+    "static/css/main.0c88be55.chunk.css.map": "/portfolio-masonmarinko/static/css/main.0c88be55.chunk.css.map",
+    "static/js/2.ee4664aa.chunk.js.LICENSE.txt": "/portfolio-masonmarinko/static/js/2.ee4664aa.chunk.js.LICENSE.txt",
+    "static/media/0.png": "/portfolio-masonmarinko/static/media/0.59b91576.png",
+    "static/media/1.png": "/portfolio-masonmarinko/static/media/1.56fbdbb1.png",
+    "static/media/2.png": "/portfolio-masonmarinko/static/media/2.e42574d9.png",
+    "static/media/3.png": "/portfolio-masonmarinko/static/media/3.b68b8dd8.png",
+    "static/media/4.png": "/portfolio-masonmarinko/static/media/4.444c8eee.png",
+    "static/media/5.png": "/portfolio-masonmarinko/static/media/5.2ddd4a55.png",
+    "static/media/aboutme-full.png": "/portfolio-masonmarinko/static/media/aboutme-full.13a542c9.png",
+    "static/media/aboutme-mobile.png": "/portfolio-masonmarinko/static/media/aboutme-mobile.e9d1ee13.png",
+    "static/media/contacts-full.png": "/portfolio-masonmarinko/static/media/contacts-full.ba007f90.png",
+    "static/media/contacts-mobile.png": "/portfolio-masonmarinko/static/media/contacts-mobile.a132d37e.png",
+    "static/media/header-full.png": "/portfolio-masonmarinko/static/media/header-full.658776ff.png",
+    "static/media/header-mobile.png": "/portfolio-masonmarinko/static/media/header-mobile.0f7cc497.png",
+    "static/media/modal.png": "/portfolio-masonmarinko/static/media/modal.d5a11eb5.png",
+    "static/media/projects-full.png": "/portfolio-masonmarinko/static/media/projects-full.efdcd6e2.png",
+    "static/media/projects-mobile.png": "/portfolio-masonmarinko/static/media/projects-mobile.01ad44ae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84da1250.js",
+    "static/js/2.ee4664aa.chunk.js",
+    "static/css/main.0c88be55.chunk.css",
+    "static/js/main.b8009a62.chunk.js"
+  ]
+}
