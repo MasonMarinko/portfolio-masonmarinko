@@ -31,19 +31,18 @@ Live URL Link: [Mason Marinko Portfolio Website](https://masonmarinko.github.io/
 ![image](src/assets/readme-image/projects-mobile.png)
 ![image](src/assets/readme-image/projects-full.png)
 
-3) The homepage (or if user selects project option in the navigation bar) shows the member cards of projects i've worked on
+3) The homepage (or if user selects project option in the navigation bar) shows the member cards of projects i've worked on. Once a card is selected the user is met with a modal (shown in next description/picture). Although words will be added to the cards in the meantime I found the cards more appealing to click on without. The user is forced to be curious from the images and only find the information and links if they select the item.
 
 ![image](src/assets/readme-image/modal.png)
 
-1) 
+4) The modal tells the user about the specific project, they are shown the title, a description, and 3 buttons. A button for the live website, a button for the repo and a button to close the modal and return to the project menu. 
 
-![image](src/assets/readme-image/header-mobile.png)
+![image](src/assets/readme-image/contacts-mobile.png)
+![image](src/assets/readme-image/contacts-full.png)
 
-5) 
+5) If the user select the "Contact" option they will be met with these screens (One shows website in mobile view, other in full screen). The user can type there name, email address as well as a message, you'll also notice the footer is present as well with all of my personal links.
 
-![image](src/assets/readme-image/header-mobile.png)
-
-6) 
+6) If the user selects the "Resume" option at the top of the page in the nav bar, or by selecting the option in the footer they are then taken to my Resume on Google Docs, this will make it much easier to update the resume instead of constantly uploading a new resume with each update.
 
 
 ## License
