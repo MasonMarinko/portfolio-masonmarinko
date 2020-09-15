@@ -27,16 +27,14 @@ Live URL Link: [Media Collector Website](https://masonmarinko.github.io/portfoli
 
 2) If you select the "About Me" section you will be toggled to the bottom of the page. The about me section is always present but stays at the bottom of the page, that way anyone looking through my projects will see me at the end. I've also included screenshots showing the difference in style when in mobile or larger screen in browser. Another thing you might notice is the footer which has clickable icons for my Github, Linkedin, Twitter and Resume.
 
-![image](src/assets/readme-image/header-mobile.png)
-![image](src/assets/readme-image/header-mobile.png)
-![image](src/assets/readme-image/header-mobile.png)
+![image](src/assets/readme-image/projects-mobile.png)
+![image](src/assets/readme-image/projects-full.png)
 
-3) 
+3) The homepage (or if user selects project option in the navigation bar) shows the member cards of projects i've worked on
 
-![image](src/assets/readme-image/header-mobile.png)
-![image](src/assets/readme-image/header-mobile.png)
+![image](src/assets/readme-image/modal.png)
 
-4) 
+1) 
 
 ![image](src/assets/readme-image/header-mobile.png)
 
