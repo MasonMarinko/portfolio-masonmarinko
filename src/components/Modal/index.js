@@ -11,8 +11,8 @@ function Modal({onClose, currentPhoto}) {
           <p className="description-header">Description:</p>
           <p className='description-text'>{description}</p>
           <div className='website-button flex-row'>
-          <button className=" close-button" href={url} target="_blank">View Website</button>
-          <button className="close-button" href={github} target="_blank">View Github</button>
+          <button className="close-button" ><a className= "button-text" target = "_blank" href = {url} >View Website</a></button>
+          <button className="close-button" ><a className= "button-text" target= "_blank" href = {github}>View Github</a></button>
           </div>
           <br/>
           <div className='close-button flex-row'>

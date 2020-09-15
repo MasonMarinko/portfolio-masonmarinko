@@ -21,6 +21,10 @@ main {
   --spacing-five: calc(2.5rem);
 }
 
+.button-text {
+  color: #fff;
+}
+
 .project-thumbnail {
   align-items: center;
   justify-content: space-evenly;
