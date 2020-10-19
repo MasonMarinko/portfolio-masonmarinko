@@ -12,6 +12,13 @@ const PhotoList = ({ category }) => {
           description: 'In this project we created a way to easily store your movies and books. You also share and comment with others in the community!',
         },
         {
+          name: 'Small Show',
+          category: 'projects',
+          github: "https://github.com/1hoppy1/small-show",
+          url: 'https://small-show-group-project.herokuapp.com/',
+          description: "Tired of not being seen on the main page of Twitch because you're a smaller streamer? Fear not! Small Show is here to get you recognized!",
+        },
+        {
           name: 'Media 4U',
           category: 'projects',
           github: "https://www.github.com/zqwhiting/media4u",
